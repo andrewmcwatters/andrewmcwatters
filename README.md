@@ -4,6 +4,8 @@ My name is Andrew Charles Parker McWatters. I am the principal of Andrew
 McWatters & Co.  
 I help organizations make investments in software.
 
+[Learn more →](https://www.andrewmcwatters.com)
+
 <!--
 **andrewmcwatters/andrewmcwatters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
