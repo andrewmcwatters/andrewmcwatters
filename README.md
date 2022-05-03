@@ -12,6 +12,8 @@ I am in approximately the 93th
 percentile (PR=0.937) of open source contributors by followers when compared
 against a cohort of the first 25,000+ GitHub users.
 
+[Learn more about where you are →](https://github.com/andrewmcwattersandco/github-statistics)
+
 Here are some selected works.
 
 #### Author of
