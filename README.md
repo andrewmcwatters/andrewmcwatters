@@ -26,7 +26,7 @@ Here are some selected works.
 ##### Andrew McWatters
 
 - [lclass](https://github.com/andrewmcwatters/lclass)  
-  Lua with Classes
+  Class-based object-oriented programming in Lua
 - [personal-finance](https://andrewmcwatters.github.io/personal-finance/)  
   A collection of assorted American personal finance statistics
 
