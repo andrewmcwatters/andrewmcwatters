@@ -17,7 +17,10 @@ I have contributed to open source for 13 years. Here are some selected works.
 
 ##### Andrew McWatters
 
-- [lclass](https://github.com/andrewmcwatters/lclass) - Lua with Classes
+- [lclass](https://github.com/andrewmcwatters/lclass)  
+  Lua with Classes
+- [personal-finance](https://andrewmcwatters.github.io/personal-finance/)  
+  A collection of assorted American personal finance statistics
 
 ##### Planimeter
 
