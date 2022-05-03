@@ -7,7 +7,7 @@ I help organizations make investments in software.
 [Learn more →](https://www.andrewmcwatters.com)
 
 I have contributed to open source for 13 years and sit at the 93th percentile
-(percentile=0.937) of open source contributors by followers when compared
+(PR=0.937) of open source contributors by followers when compared
 against a cohort of the first 25,000 GitHub users. Here are some selected works.
 
 #### Author of
