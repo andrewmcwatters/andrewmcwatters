@@ -6,7 +6,7 @@ I help organizations make investments in software.
 
 [Learn more →](https://www.andrewmcwatters.com)
 
-I have contributed to open source for 13 years.
+I have contributed to open source software for 13 years.
 
 I am in approximately the 93th
 percentile (PR=0.937) of open source contributors by followers when compared
