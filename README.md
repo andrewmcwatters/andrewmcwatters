@@ -6,8 +6,7 @@ I help organizations make investments in software.
 
 [Learn more →](https://www.andrewmcwatters.com)
 
-I have contributed to open source software for 13 years.
-
+I have contributed to open source software for 13 years.  
 Here are some selected works.
 
 #### Author of
