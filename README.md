@@ -8,12 +8,6 @@ I help organizations make investments in software.
 
 I have contributed to open source software for 13 years.
 
-I am in approximately the 94th
-percentile (PR=0.943, n=33,345) of open source contributors by followers when compared
-against a cohort of the first 30,000+ GitHub users.
-
-[Learn more about where you are →](https://github.com/andrewmcwattersandco/github-statistics)
-
 Here are some selected works.
 
 #### Author of
