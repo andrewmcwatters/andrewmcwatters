@@ -25,10 +25,10 @@ Here are some selected works.
 
 ##### Planimeter
 
-- [Grid Engine 9](https://github.com/Planimeter/grid-sdk)  
-  The largest pure Lua game engine on GitHub
-- [lgameframework](https://github.com/Planimeter/lgf)  
-  A LuaJIT FFI driven game framework with a LÖVE compatibility layer
+- [Planimeter Game Engine 2D](https://github.com/Planimeter/grid-sdk)  
+  The most starred Lua 2D game engine on GitHub
+- [Planimeter Game Framework](https://github.com/Planimeter/lgf)  
+  LuaJIT FFI-based game development framework for Lua
 - [luajit-ffi-bindings](https://github.com/topics/luajit-ffi-bindings) topic on
   GitHub
 - [Quake-VS2022](https://github.com/Planimeter/Quake-VS2022)  
