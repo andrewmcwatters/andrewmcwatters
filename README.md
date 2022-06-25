@@ -15,6 +15,8 @@ Here are some selected works.
 
 - [2022 Github Statistics Research](https://github.com/andrewmcwattersandco/github-statistics)
 - [Programming Language Benchmarks](https://github.com/andrewmcwattersandco/programming-language-benchmarks)
+- [digany(1)](https://github.com/andrewmcwattersandco/digany)  
+  ANY DNS lookup utility
 
 ##### Andrew McWatters
 
