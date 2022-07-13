@@ -27,8 +27,8 @@ Here are some selected works.
 
 ##### Planimeter
 
-- [Planimeter Game Engine 2D](https://github.com/Planimeter/grid-sdk)  
-  The most starred Lua 2D game engine on GitHub
+- [Planimeter Game Engine 2D](https://github.com/Planimeter/game-engine-2d)  
+  The most starred 2D game engine in Lua on GitHub
 - [Planimeter Game Framework](https://github.com/Planimeter/lgf)  
   LuaJIT FFI-based game development framework for Lua
 - [luajit-ffi-bindings](https://github.com/topics/luajit-ffi-bindings) topic on
