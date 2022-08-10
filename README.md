@@ -6,6 +6,8 @@ I help organizations make investments in software.
 
 [Learn more →](https://www.andrewmcwatters.com)
 
+I have apparently coined the phrase "[syntax monoculture](https://www.google.com/search?q=%22syntax+monocultures%22)" in 2022.
+
 I have contributed to open source software for 13 years.  
 Here are some selected works.
 
