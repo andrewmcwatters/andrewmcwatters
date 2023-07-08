@@ -43,6 +43,15 @@ Here are some selected works.
   https://github.com/Planimeter/hl2sb-src  
   https://github.com/Planimeter/hl2sb
 
+#### Contributor to
+
+##### Yarn
+
+- nohoist in Workspaces  
+  https://github.com/yarnpkg/yarn/issues/3882#issuecomment-338021570  
+  https://classic.yarnpkg.com/blog/2018/02/15/nohoist/  
+  https://classic.yarnpkg.com/blog/2018/02/15/nohoist/#how-to-use-it
+
 <!--
 **andrewmcwatters/andrewmcwatters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
