@@ -24,7 +24,7 @@ Here are some selected works.
   Class-based object-oriented programming in Lua
 - [personal-finance](https://andrewmcwatters.github.io/personal-finance/)  
   A collection of assorted American personal finance statistics
-- [UIKit on the Web](https://andrewmcwatters.github.io/UIKit-on-the-Web/)  
+- [UIKit on the Web](https://github.com/andrewmcwatters/UIKit-on-the-Web)  
   Construct and manage a graphical, event-driven user interface for your iOS or iPadOS web app.
 
 ##### Planimeter
