@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-My name is Andrew Charles Parker McWatters.  
-I am the principal of Andrew McWatters & Co and owner of Planimeter and Team Sandbox.  
-I help organizations make investments in software.
+My name is Andrew Charles Parker McWatters (a.k.a. _acpm_, _amc_, _amcwatters_).  
+
+I am the principal of Andrew McWatters & Co., an award-winning software
+development consulting firm,  
+and owner of Planimeter and Team Sandbox, two open-source game technology organizations.  
+
+I help start businesses and help organizations make investments in software.
 
 [Learn more →](https://www.andrewmcwatters.com)
 
