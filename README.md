@@ -6,7 +6,7 @@ I am the principal of Andrew McWatters & Co., an award-winning software
 development consulting firm,  
 and owner of Planimeter and Team Sandbox, two open-source game technology organizations.  
 
-I help start businesses and help organizations make investments in software.
+I help start businesses and help organizations make new and continued investments in software.
 
 [Learn more →](https://www.andrewmcwatters.com)
 
