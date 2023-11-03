@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Andrew Charles Parker McWatters (a.k.a. _acpm_, _amc_, _amcwatters_).  
+My name is Andrew Charles Parker McWatters.  
 
 I am the principal of Andrew McWatters & Co., an award-winning software
 development consulting firm,  
