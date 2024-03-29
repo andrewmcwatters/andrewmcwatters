@@ -40,7 +40,7 @@ Here are some selected works.
 - [luajit-ffi-bindings](https://github.com/topics/luajit-ffi-bindings) topic on
   GitHub
 - [Quake-VS2022](https://github.com/Planimeter/Quake-VS2022)  
-  A port of Quake to Visual Studio 2022
+  A fork of the Quake GPL Source Release with Visual Studio 2022 support
 
 ##### Team Sandbox
 
