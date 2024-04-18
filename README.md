@@ -32,8 +32,8 @@ Here are some selected works.
 
 - [lclass](https://github.com/andrewmcwatters/lclass)  
   Class-based object-oriented programming in Lua
-- [openpilot-sae-level-3](https://github.com/andrewmcwatters/openpilot-sae-level-3)  
-  A fork of openpilot with a goal of meeting or exceeding SAE Level 3 per J3016 APR2021
+- [openpilot](https://github.com/andrewmcwatters/openpilot)  
+  A personal fork of openpilot
 - [personal-finance](https://andrewmcwatters.github.io/personal-finance/)  
   A collection of assorted American personal finance statistics
 - [UIKit on the Web](https://github.com/andrewmcwatters/UIKit-on-the-Web)  
