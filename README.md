@@ -43,14 +43,16 @@ Here are some selected works.
 
 ##### Planimeter
 
+- [luajit-ffi-bindings](https://github.com/topics/luajit-ffi-bindings) topic on
+  GitHub
 - [Planimeter Game Engine 2D](https://github.com/Planimeter/game-engine-2d)  
   The most starred 2D game engine in Lua on GitHub
 - [Planimeter Game Framework](https://github.com/Planimeter/lgf)  
   LuaJIT FFI-based game development framework for Lua
-- [luajit-ffi-bindings](https://github.com/topics/luajit-ffi-bindings) topic on
-  GitHub
 - [Quake-VS2022](https://github.com/Planimeter/Quake-VS2022)  
   A fork of the Quake GPL Source Release with Visual Studio 2022 support
+- [source-sdk-2013-actions](https://github.com/Planimeter/source-sdk-2013-actions)  
+  A fork of the 2013 edition of the Source SDK with GitHub Actions support
 
 ##### Team Sandbox
 
