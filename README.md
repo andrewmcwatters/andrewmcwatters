@@ -51,8 +51,6 @@ Here are some selected works.
   LuaJIT FFI-based game development framework for Lua
 - [Quake-VS2022](https://github.com/Planimeter/Quake-VS2022)  
   A fork of the Quake GPL Source Release with Visual Studio 2022 support
-- [source-sdk-2013-actions](https://github.com/Planimeter/source-sdk-2013-actions)  
-  A fork of the 2013 edition of the Source SDK with GitHub Actions support
 
 ##### Team Sandbox
 
