@@ -31,6 +31,8 @@ Here are some selected works.
 
 ##### Andrew McWatters
 
+- [bootstrap-cupertino](https://github.com/andrewmcwatters/bootstrap-cupertino)  
+  Bootstrap theme adhering to Apple's Human Interface Guidelines
 - [comma-api-server](https://github.com/andrewmcwatters/comma-api-server)  
   A drop-in replacement for `api.commadotai.com` in commaai/openpilot
 - [lclass](https://github.com/andrewmcwatters/lclass)  
