@@ -30,6 +30,8 @@ Here are some selected works.
   ANY DNS lookup utility
 - [Encrypted Modular Crypt Format (EMCF)](https://github.com/andrewmcwattersandco/encrypted-modular-crypt-format)
 - [Programming Language Benchmarks](https://github.com/andrewmcwattersandco/programming-language-benchmarks)
+- [UIKit on the Web](https://github.com/andrewmcwatters/UIKit-on-the-Web)  
+  Construct and manage a graphical, event-driven user interface for your iOS or iPadOS web app.
 
 ##### Andrew McWatters
 
@@ -41,8 +43,6 @@ Here are some selected works.
   A personal fork of openpilot
 - [personal-finance](https://andrewmcwatters.github.io/personal-finance/)  
   A collection of assorted American personal finance statistics
-- [UIKit on the Web](https://github.com/andrewmcwatters/UIKit-on-the-Web)  
-  Construct and manage a graphical, event-driven user interface for your iOS or iPadOS web app.
 
 ##### Planimeter
 
