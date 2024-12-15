@@ -60,7 +60,7 @@ Here are some selected works.
 - _Half-Life 2: Sandbox - A free and open-source sandbox Source engine
   modification_  
   https://github.com/Planimeter/hl2sb-src  
-  https://github.com/Planimeter/hl2sb
+  https://github.com/Planimeter/hl2sb  
 - [source-sdk-2013-VS2022](https://github.com/Planimeter/source-sdk-2013-VS2022)
   A fork of the 2013 edition of the Source SDK with Visual Studio 2022 support
 
