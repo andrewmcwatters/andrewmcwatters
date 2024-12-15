@@ -61,6 +61,8 @@ Here are some selected works.
   modification_  
   https://github.com/Planimeter/hl2sb-src  
   https://github.com/Planimeter/hl2sb
+- [source-sdk-2013-VS2022](https://github.com/Planimeter/source-sdk-2013-VS2022)
+  A fork of the 2013 edition of the Source SDK with Visual Studio 2022 support
 
 #### Contributor to
 
