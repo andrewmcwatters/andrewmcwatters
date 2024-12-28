@@ -24,16 +24,16 @@ Here are some selected works.
 ##### Andrew McWatters & Co.
 
 - [2022 Github Statistics Research](https://github.com/andrewmcwattersandco/github-statistics)
+- [AppKit on the Web](https://github.com/andrewmcwattersandco/AppKit-on-the-Web)  
+  Construct and manage a graphical, event-driven user interface for your macOS web app.
+- [UIKit on the Web](https://github.com/andrewmcwattersandco/UIKit-on-the-Web)  
+  Construct and manage a graphical, event-driven user interface for your iOS or iPadOS web app.
 - [bootstrap-cupertino](https://github.com/andrewmcwatters/bootstrap-cupertino)  
   Bootstrap theme adhering to Apple's Human Interface Guidelines
 - [digany(1)](https://github.com/andrewmcwattersandco/digany)  
   ANY DNS lookup utility
 - [Encrypted Modular Crypt Format (EMCF)](https://github.com/andrewmcwattersandco/encrypted-modular-crypt-format)
 - [Programming Language Benchmarks](https://github.com/andrewmcwattersandco/programming-language-benchmarks)
-- [AppKit on the Web](https://github.com/andrewmcwattersandco/AppKit-on-the-Web)  
-  Construct and manage a graphical, event-driven user interface for your macOS web app.
-- [UIKit on the Web](https://github.com/andrewmcwattersandco/UIKit-on-the-Web)  
-  Construct and manage a graphical, event-driven user interface for your iOS or iPadOS web app.
 
 ##### Andrew McWatters
 
