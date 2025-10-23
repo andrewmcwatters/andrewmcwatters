@@ -9,7 +9,9 @@ organizations.
 
 I work at Andrew McWatters & Co. managing software teams and building out
 subsidiaries McWatters Home, which focuses on local homeowner services, and
-McWatters Automotive which works on self-driving cars.
+McWatters Automotive which works on automotive sensor suites, and McWatters
+Finance, which builds undetectable browser automation technology and
+financial services technologies.
 
 I help start businesses and help organizations make new and continued
 investments in software.
