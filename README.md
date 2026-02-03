@@ -41,6 +41,7 @@ Here are some selected works.
 
 ##### Andrew McWatters
 
+- [2026 Hacker News Statistics Research](https://github.com/andrewmcwatters/hacker-news-statistics)
 - [comma-api-server](https://github.com/andrewmcwatters/comma-api-server)  
   A drop-in replacement for `api.commadotai.com` in commaai/openpilot
 - [lclass](https://github.com/andrewmcwatters/lclass)  
