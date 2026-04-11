@@ -35,6 +35,8 @@ Here are some selected works.
 - [Encrypted Modular Crypt Format (EMCF)](https://github.com/andrewmcwattersandco/encrypted-modular-crypt-format)
 - [git-fetch-file(1)](https://github.com/andrewmcwattersandco/git-fetch-file)  
   Fetch and sync individual files or globs from other Git repositories, with commit tracking and local-change protection
+- [git-ignore-template(1)](https://github.com/andrewmcwattersandco/git-ignore-template)  
+  Generate multilingual .gitignore files from github/gitignore
 - [Programming Language Benchmarks](https://github.com/andrewmcwattersandco/programming-language-benchmarks)
 - [UIKit on the Web](https://github.com/andrewmcwattersandco/UIKit-on-the-Web)  
   Construct and manage a graphical, event-driven user interface for your iOS or iPadOS web app.
